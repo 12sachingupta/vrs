@@ -7,8 +7,7 @@ export default function About() {
       <main className="pv3 pv5-ns vh-100 white dt mw8 center">
         <div className="items-center">
           <p className="lh-copy">
-            VRS is a fully-functional e-commerce store, built on the serverless
-            paradigm.
+           Welcome to ERA of Multidimension with AR and VR
             <br />
             <br />
             With a single command `npx vercel`, the store deploys instantly,
@@ -18,10 +17,10 @@ export default function About() {
           </p>
           <p className="lh-copy" />
           <p className="lh-copy">
-            The source-code for VRS is open-sourced on{' '}
+            Open to contribute{' '}
             <a
               className="link dim white underline"
-              href="https://github.com/vercel/vrs"
+              href="https://github.com/12sachingupta/vrs"
             >
               GitHub
             </a>
